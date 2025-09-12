@@ -1,4 +1,0 @@
-# To-Do List
-# complete git lesson
-# review python basics
-# start python exercises
